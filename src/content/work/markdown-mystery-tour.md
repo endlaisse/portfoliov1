@@ -1,35 +1,36 @@
 ---
-title: Markdown Mystery Tour
+title: Geek Factory License Site
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: \assets\stock-y.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
-description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+description: I helped design the showcase site for the geek factory license. My task was to adapt the CSS to fit the site and add JS animations.
+  
 tags:
-  - Design
+  - Design UX,UI
+  - Webflow
   - Dev
-  - User Testing
+  - Responsive
 ---
 
-## Level-two heading
+> Project: Redesign of the "Geek Factory License" Showcase Website
+Objective
+The main goal of this project was to modernize and optimize the "Geek Factory License" showcase website to enhance the user experience across all types of devices, particularly mobile devices.
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
-
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
-
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
-
-### Level-three heading
-
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
-
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+Achievements
+1. Complete Responsive Redesign
+Description: I entirely redesigned the website with a responsive approach. This means the site now automatically adjusts to the screen size of any device, providing an optimal user experience on smartphones, tablets, and desktop computers.
+Technologies Used: HTML5, CSS3 (Flexbox, Grid Layout), Media Queries.
+2. Integration of Frameworks and JavaScript Animations
+Description: To improve interactivity and visual appeal, I added several JavaScript animations. These include smooth page transitions, hover effects, and scroll animations.
+Frameworks Used:
+Bootstrap: To speed up development with reusable components and a robust grid system.
+jQuery: For easier DOM manipulation and animations.
+AOS (Animate on Scroll): To enrich the visual experience with scroll-triggered animations.
+3. Implementation of a PHP Contact Form
+Description: I created and integrated a functional contact form that allows users to send messages directly through the website. The information submitted by users is processed by a PHP script and then emailed to the "Geek Factory License" team.
+Features of the Contact Form:
+Client-side and server-side validation to ensure all required fields are correctly filled.
+Spam protection using Google reCAPTCHA.
+Confirmation message upon successful form submission.
+Outcome
+With these improvements, the "Geek Factory License" website is now more user-friendly, modern, and accessible on all devices. The added animations and interactive features have made navigation more engaging and visually appealing for visitors.

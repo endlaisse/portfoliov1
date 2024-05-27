@@ -1,22 +1,28 @@
 ---
-title: Duvet Genius
+title: Node.js Email Sender
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+img: \assets\stock-x.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  
+  I've developed an amazing simple tool for mass e-mailings solutions, node.js, npm runtime
 tags:
-  - Design
-  - Dev
-  - Branding
+  - Amazon SES, Elastic Computing EC2
+  - Back-End
+  - Node JS
 ---
+I am excited to introduce my innovative solution for mass email sending, developed in Node.js. Designed to meet the needs of modern users, this email sender offers a multitude of advanced features to optimize your email campaigns.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Key Features:
+Drag and Drop Email Files:
+I have simplified the process of importing your contact lists with an intuitive drag-and-drop feature. Simply drag your files containing the emails directly into the interface for instant loading.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Simultaneous Use of Multiple SMTP Servers:
+I have integrated the ability to enhance the reliability and speed of your email deliveries by using multiple SMTP servers in parallel. This feature enables intelligent distribution of emails, ensuring better deliverability and reducing the risk of blocking.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Adjustable Sending Frequency:
+You can precisely control the pace of your email sends by adjusting the frequency according to your needs. Whether per minute, per hour, or per day, you have the flexibility to set the ideal cadence for your campaigns, ensuring optimal management of quotas and resources.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I chose Node.js for this project to ensure compatibility with secure Amazon AWS EC2 servers, providing a reliable and scalable environment for your email sending needs.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+My Node.js email sender is the perfect solution for businesses and individuals looking to efficiently manage their email campaigns with a user-friendly interface and robust features. Try it today and discover the power of simplified email sending management.
